@@ -22,10 +22,10 @@ If you use our code for academic research, please cite our paper:
   journal={arXiv preprint arXiv:2410.23568},
   year={2024}
 }
-
-Related Work
+```
+## Related Work
 We also recommend our related work:
-"A Comparative Study of Dynamic Models for Gravity-Driven Particle-Laden Flows", available at arXiv:2410.23561.
+"A Comparative Study of Dynamic Models for Gravity-Driven Particle-Laden Flows", available at [arXiv:2410.23561](https://arxiv.org/abs/2410.23561).
 
 If relevant, please cite:
 
